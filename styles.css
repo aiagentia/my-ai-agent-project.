@@ -1,0 +1,29 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #8d53fc;
+  text-align: center;
+}
+
+button {
+  background-color: #8d53fc;
+  color: white;
+  padding: 12px 24px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  display: block;
+  margin: 20px auto;
+}
+
+button:hover {
+  background-color: #6b2edb;
+}
